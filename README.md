@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tariqridwan
+- 👋🏼 Hi, I’m @tariqridwan
 - 👀 Interested in Turbulence 🌀🌪, Wind Energy 💨, Atmospheric Boundary Layers (ABL) 🌫, Meteorology ⛈️🌧 .·.·.·.
 - 👀  .·.·.·. in High Performance Computing (HPC), 🖥️ Development of HPC multi-physics CFD codes for massively parallel supercomputers.
 - 🌱 I’m currently learning ABL, OpenFOAM, WMLES
